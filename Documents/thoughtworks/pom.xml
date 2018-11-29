@@ -39,7 +39,7 @@
                     <version>2.18.1</version>
                     <configuration>
                         <suiteXmlFiles>
-                            <suiteXmlFile>src/test/java/Runner/runner.xml</suiteXmlFile>
+                            <suiteXmlFile>runner.xml</suiteXmlFile>
                         </suiteXmlFiles>
                     </configuration>
                 </plugin>
